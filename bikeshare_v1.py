@@ -241,7 +241,7 @@ def user_stats(df, city_input):
 # display block data of 5 rows if requested
 def display_block(df):
     # define length for block
-    block_length = 5
+    block_length = 10
     view_data = str(input("\n Would you like to view 5 rows of individual trip data? Enter yes / no?")).lower()
     start_loc = 0
     while (view_data != 'no' and start_loc < df.shape[0] - block_length):
