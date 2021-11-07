@@ -4,9 +4,9 @@
 # from April to November 2021
 #
 # definitions & inputs
-# in additon to v0 has the blocks of rows of data upon request
-# in addition to v0 has the inputs for the cities based on full names and lower case inputs accepted
-# 24.10.2021
+# v1 outputs blocks of rows of data upon request
+# v1 has inputs for the cities based on full names, no shortcuts, and accepts lower case inputs
+# 07.11.2021
 
 
 import time
