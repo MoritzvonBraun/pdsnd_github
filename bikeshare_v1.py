@@ -1,3 +1,8 @@
+# general description
+#
+# this program was created by Marko Maschek as project for the Udacity Nanodegree: Programming for Data Science
+# from April to November 2021
+#
 # definitions & inputs
 # in additon to v0 has the blocks of rows of data upon request
 # in addition to v0 has the inputs for the cities based on full names and lower case inputs accepted
