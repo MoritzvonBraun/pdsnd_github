@@ -31,7 +31,7 @@ def get_filters():
     months_list = {'jan': 'january', 'feb': 'february', 'mar': 'march', 'apr': 'april', 'may': 'may', 'jun': 'june', 'all': 'all'}
     days_list = {'mon': 'monday', 'tue': 'tuesday', 'wed': 'wednesday', 'thu': 'thursday', 'fri': 'friday', 'sat': 'saturday', 'sun': 'sunday', 'all': 'all'}
     cities_list = {'chicago': 'chicago', 'new york city': 'new york city', 'washington': 'washington'}
-    nr_loops = 3 # number of trial inputs
+    nr_loops = 4 # number of trial inputs
 
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     # set first input inputy_city to start off
